@@ -101,3 +101,7 @@ Sequential()
 - Output shows actual vs predicted labels.
 - Real-time prediction simulation using test samples.
 
+-## 📁 Project 3 :📄🤖 Smart Resume Matcher with job requirements using NLP
+
+I built an NLP-based Resume Screening Application that automates the process of shortlisting resumes against a given job description. The system extracts text from resumes (PDF format), generates embeddings using Sentence Transformers, and computes similarity with the provided job description.
+
